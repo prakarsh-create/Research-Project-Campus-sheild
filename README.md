@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 āāāāā# FoundIt - Lost and Found Platform
 
 FoundIt ek lost-and-found web application hai jahan users account create karke lost items report kar sakte hain, images upload kar sakte hain aur apni listings manage kar sakte hain.
@@ -410,3 +411,6 @@ node --check server.js
 - PostgreSQL database
 - Cloud image storage
 - Automated tests
+=======
+# Research-Project-Campus-sheild
+>>>>>>> 9b1570244e4227a091853ebaa8707cd88264ef40
